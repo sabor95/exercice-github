@@ -1,6 +1,6 @@
 article h2 {
   font-size: 24px;
-  color: ;
+  color: blue;
 }
 article p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -9,3 +9,9 @@ article a {
   font-size: 5px;
   color: blueviolet;
 }
+
+h3 {
+  font-size: 50px;
+  color: pink;
+}
+
