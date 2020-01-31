@@ -1,0 +1,11 @@
+article h2 {
+  font-size: 24px;
+  color: ;
+}
+article p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+article a {
+  font-size: 5px;
+  color: blueviolet;
+}
